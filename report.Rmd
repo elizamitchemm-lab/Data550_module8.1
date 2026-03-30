@@ -1,6 +1,6 @@
 ---
-title: Three sets of random numbers
-author: You
+title: Four sets of random numbers
+author: Janna & Eliza
 output: html_document
 ---
 
